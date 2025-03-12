@@ -1,0 +1,4 @@
+gcc sampleProgram.c -o sampleProgram
+
+run the program
+./programName
